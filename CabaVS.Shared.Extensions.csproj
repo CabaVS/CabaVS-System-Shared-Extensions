@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netcoreapp3.1</TargetFramework>
+		<PackageId>CabaVS.Shared.Extensions</PackageId>
+		<Version>1.0.0</Version>
+		<Authors>CabaVS</Authors>
+		<Company>CabaVS</Company>
+		<PackageDescription>Extensions on the base .NET Core classes.</PackageDescription>
+		<RepositoryUrl>https://dev.azure.com/valeriisavchenko/CabaVS%20system/_git/shared-extensions</RepositoryUrl>
+	</PropertyGroup>
+
+</Project>
